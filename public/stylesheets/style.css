@@ -139,6 +139,7 @@ img{
     opacity: 0;
     transition: 0.5s ease-in-out;
     padding: 30px 15px;
+    width: 100%;
 }
 .poster-info-overlay h3 {
     text-transform: uppercase;
@@ -206,11 +207,11 @@ footer .social-media-icons a:first-child {
 }
 
 footer .social-media-icons a:last-child:hover i {
-    color: #af0b0c;
+    color: #0f66af;
 }
 
 footer .social-media-icons a:first-child:hover i {
-    color: #333;
+    color: #0f66af;
 }
 
 
@@ -273,7 +274,7 @@ Movie-Single Hero Image and Title Styles
     margin: 0px;
 
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 1.20em;
     letter-spacing: 0.4px;
 }
